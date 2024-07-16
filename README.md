@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/ArathiS1/ArathiS.Devtern-task2.git
+
 
 Navigate to the project directory:
 
